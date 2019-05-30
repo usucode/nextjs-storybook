@@ -10,8 +10,8 @@
 まずは、ダウンロードしてインストール
 
 ```bash
-git clone git@xxxxx.com
-mv next-static-sample my-site
+git clone git@github.com:usu-blog/nextjs-storybook.git
+mv nextjs-storybook my-site
 cd my-site
 yarn
 ```
